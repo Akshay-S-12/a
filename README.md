@@ -16,7 +16,7 @@ Traditional resume screening processes are often time-consuming and prone to hum
 
 # The Solution:
 
-Our project   offers a comprehensive solution to streamline the resume screening process using machine learning. By harnessing the power of natural language processing (NLP) techniques and classification algorithms, we automate the categorization of resumes based on predefined criteria. Additionally, our system provides personalized job recommendations to match candidates with suitable job openings, optimizing the recruitment process.
+This project   offers a comprehensive solution to streamline the resume screening process using machine learning. By harnessing the power of natural language processing (NLP) techniques and classification algorithms, we automate the categorization of resumes based on predefined criteria. Additionally, our system provides personalized job recommendations to match candidates with suitable job openings, optimizing the recruitment process.
 
 # Key Features:
 
